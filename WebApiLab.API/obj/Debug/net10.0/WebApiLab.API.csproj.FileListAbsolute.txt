@@ -32,4 +32,3 @@
 /Users/dduarte/Projects/CSharp/Week18/WebApiLab/WebApiLab.API/obj/Debug/net10.0/WebApiLab.API.genruntimeconfig.cache
 /Users/dduarte/Projects/CSharp/Week18/WebApiLab/WebApiLab.API/obj/Debug/net10.0/ref/WebApiLab.API.dll
 /Users/dduarte/Projects/CSharp/Week18/WebApiLab/WebApiLab.API/bin/Debug/net10.0/Resources/64KB.json
-/Users/dduarte/Projects/CSharp/Week18/WebApiLab/WebApiLab.API/obj/Debug/net10.0/WebApiLab.API.sourcelink.json
