@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiLab.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20bab3afff1c8744194988133f308f95a26e1b46")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiLab.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiLab.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
